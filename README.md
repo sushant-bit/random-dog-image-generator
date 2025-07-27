@@ -24,7 +24,7 @@ A fun little web app that fetches and displays random dog pictures using the Dog
 
 ## Screenshot
 
-![screenshot](Screenshot.png)
+![screenshot](Screenshot.jpg)
 
 ## License
 
