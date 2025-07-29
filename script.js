@@ -5,7 +5,7 @@ const btn = document.querySelector(".btn");
 const placeholder = document.querySelector("#placeholder");
 
 const getPic = async () => {
-  console.log("Fetching book data...");
+  console.log("Fetching data...");
   placeholder.style.display = "none";
   pic.style.display = "flex";
   let response = await fetch(url);
